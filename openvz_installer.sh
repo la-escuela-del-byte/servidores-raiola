@@ -14,6 +14,7 @@ function instalar_paqueteria {
     yum install wget -y
     yum install tree -y
     yum install rsync -y
+    yum install nano -y
 
 }
 ###instalar panel web###
