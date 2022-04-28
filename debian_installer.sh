@@ -19,4 +19,9 @@
 
 
 ###menu###
+function menu_principal {
+    while true; do
+    
+    
 
+}
