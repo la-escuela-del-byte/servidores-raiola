@@ -21,7 +21,7 @@ function instalar_paqueteria {
 
 function instalar_panel_web {
 
-   
+    wget -O - http://ovz-web-panel.googlecode.com/svn/installer/ai.sh | sh
     wget -O - https://raw.githubusercontent.com/sibprogrammer/owp/master/installer/ai.sh | sh 
 }
 
