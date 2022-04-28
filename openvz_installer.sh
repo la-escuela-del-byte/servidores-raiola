@@ -20,7 +20,7 @@ function instalar_paqueteria {
 
 function instalar_panel_web {
 
-    wget https://github.com/sibprogrammer/owp/blob/master/installer/ai.sh
+   
     wget -O - https://raw.githubusercontent.com/sibprogrammer/owp/master/installer/ai.sh | sh 
 }
 
