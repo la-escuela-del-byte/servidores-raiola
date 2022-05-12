@@ -14,4 +14,50 @@
 - CLUSTER OPENVZ SIMPLIFICADO
 - CLUSTER PROXMOX VE
 - CLUSTER PROXMOX VE SIMPLIFICADO
+-  2 openvz
+-  2 proxmox ve
 - CLIENTE
+- ansible
+
+
+------------
+seguridad
+paneles
+servicios
+cms
+migrar
+certificados
+-----------------
+
+# SO
+
+- ubuntu
+- debian
+- centos/almalinux
+
+# cms
+
+- magneto
+- drupal
+- moodle
+- wordpress 
+- prestasho
+- joomla
+
+# otros
+
+nginx litespeed ssh kerberos cluster
+
+# servicios
+
+- hosting (reseller seo, normal, compartido)
+- vps (normal, optimizado, dedicado)
+
+- web
+- dns
+- dhcp
+- pxe
+- correo
+- mensaje
+- libreria
+- 
