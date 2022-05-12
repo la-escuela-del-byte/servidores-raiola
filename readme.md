@@ -75,3 +75,12 @@ nginx litespeed ssh kerberos cluster
 -  videojuegos
 -  nas san das
 -  wiki
+- voip
+- tox sip xmpp
+- servidor de acceso remoto
+- vagrat qemu docker kubernetes lxc kve xen
+- nfs
+- ldap
+- vpn proxy
+- backup monitotreo
+- firewall
