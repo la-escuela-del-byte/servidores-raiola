@@ -85,4 +85,9 @@ nginx litespeed ssh kerberos cluster
 - backup monitotreo
 - firewall
 - noticias
+- streaming
+- sonido radio
+- video
+- fotografias
+- cms
 - 
