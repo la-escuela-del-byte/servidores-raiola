@@ -99,3 +99,4 @@ nginx litespeed ssh kerberos cluster
 - paquetes
 - cluster
 - redes sociales
+- honeypot
