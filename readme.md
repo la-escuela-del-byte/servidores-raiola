@@ -61,4 +61,8 @@ nginx litespeed ssh kerberos cluster
 - correo
 - mensaje
 - libreria
--  
+-  base de datos
+-  big data
+-  git
+-  seo
+-  svn
