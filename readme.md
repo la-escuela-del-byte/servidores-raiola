@@ -72,6 +72,7 @@ nginx litespeed ssh kerberos cluster
 -  seguridad
 -  firewall
 -  router
+-  descargas
 -  impresion
 -  videojuegos
 -  nas san das
@@ -92,3 +93,7 @@ nginx litespeed ssh kerberos cluster
 - fotografias
 - cms
 - ntp
+- nube
+- paquetes
+- cluster
+- redes sociales
