@@ -57,7 +57,8 @@ nginx litespeed ssh kerberos cluster
 - dns
 - dhcp
 - pxe
+- ftp
 - correo
 - mensaje
 - libreria
-- 
+-  
