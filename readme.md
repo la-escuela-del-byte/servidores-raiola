@@ -73,3 +73,5 @@ nginx litespeed ssh kerberos cluster
 -  router
 -  impresion
 -  videojuegos
+-  nas san das
+-  wiki
