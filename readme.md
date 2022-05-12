@@ -72,4 +72,4 @@ nginx litespeed ssh kerberos cluster
 -  firewall
 -  router
 -  impresion
--  
+-  videojuegos
