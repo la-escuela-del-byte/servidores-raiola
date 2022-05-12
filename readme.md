@@ -36,6 +36,8 @@ prssed
 - debian
 - centos/almalinux
 
+- cliente arch manjaro, debian ubuntu, almalinux rochy centos .
+
 # cms
 
 - magneto
