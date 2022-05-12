@@ -84,3 +84,5 @@ nginx litespeed ssh kerberos cluster
 - vpn proxy
 - backup monitotreo
 - firewall
+- noticias
+- 
