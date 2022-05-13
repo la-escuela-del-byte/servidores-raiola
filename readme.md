@@ -77,6 +77,8 @@ nginx litespeed ssh kerberos cluster
 -  descargas
 -  impresion
 -  videojuegos
+-  ctfd        
+-  pihole
 -  nas san das
 -  wiki
 - voip
